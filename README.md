@@ -3,7 +3,7 @@
 [![Cover del vídeo](./cover.png)](https://www.youtube.com/watch?v=XXXXXXXXXXX)
 
 
-**Autor:** markh4ck
+**Autor:** Marc Aliaga (aka MARKH4CK)
 **Web:** [https://markaliaga.com](https://markaliaga.com)
 
 ---
