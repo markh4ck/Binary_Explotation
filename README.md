@@ -53,7 +53,7 @@ Ejemplo de cita informal:
 
 ## Licencia
 
-Este proyecto se distribuye bajo la **MIT License** (u otra licencia que prefieras). La licencia permite la reutilización con atribución; no exime al usuario de obligaciones legales relacionadas con el uso de las herramientas o técnicas descritas.
+Este proyecto se distribuye bajo la **MIT License** . 
 
 ---
 
