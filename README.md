@@ -27,10 +27,10 @@ Este repositorio contiene dos scripts de apoyo (`frase.py` y `exploit.py`) utili
 
 ## Herramientas (mención a alto nivel)
 
-En el laboratorio se emplearon herramientas comunes para desarrollo y depuración de payloads y análisis: por ejemplo, generadores de payloads y depuradores de usuario (p. ej. msfvenom y WinDbg). Aquí se listan solo a modo informativo — no se incluyen comandos ni instrucciones operativas:
+En el laboratorio se emplearon herramientas comunes para desarrollo y depuración de payloads y análisis.
 
-* Generadores de payloads (creación y empaquetado de código de prueba).
-* Depuradores y analizadores de memoria (inspección de registros, trazas y comportamiento del proceso).
+* Generadores de payloads (MSFVENOM).
+* Depuradores y analizadores de memoria (WinDbg).
 * Entornos virtualizados aislados (VMs) para ejecutar las pruebas.
 
 ---
