@@ -1,6 +1,6 @@
 # Exploit Overflow — Laboratorio educativo (VIDEO TUTORIAL en YT)
 
-[![Watch on YouTube]([https://ibb.co/Ng2n19gp](https://image2url.com/images/1759762422592-bda138db-8ba8-4fcc-a98f-22a916148e40.png))](https://www.youtube.com/watch?v=VBcfHDGXQ38)
+[![Watch on YouTube]([https://image2url.com/images/1759762422592-bda138db-8ba8-4fcc-a98f-22a916148e40.png])](https://www.youtube.com/watch?v=VBcfHDGXQ38)
 
 
 **Autor:** Marc Aliaga (aka MARKH4CK)
